@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentResponseChecker", "IdentResponseChecker\IdentResponseChecker.csproj", "{FD28E569-138B-4F3A-82D3-88F1D2974006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD28E569-138B-4F3A-82D3-88F1D2974006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD28E569-138B-4F3A-82D3-88F1D2974006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD28E569-138B-4F3A-82D3-88F1D2974006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD28E569-138B-4F3A-82D3-88F1D2974006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB104B8D-D261-404B-84AE-0BB51EBD429D}
+	EndGlobalSection
+EndGlobal
